@@ -3,6 +3,6 @@
 
     <string name="app_name">CustomSyncAdapter</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="success">SI VES ESTE MENSAJE ESTAS LOGEADO</string>
 
 </resources>
