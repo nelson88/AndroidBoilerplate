@@ -17,7 +17,7 @@ public class SimpleDatabaseHelper extends SQLiteOpenHelper{
 	}
 
 	@Override
-	public void onCreate(SQLiteDatabase db) {
+	public void onCreate(SQLiteDatabase db){
 		db.execSQL("create table personas ( _ID int primary key, nombre varchar(200) not null, apellido varchar(200) not null)");		
 		
 		//estos son datos de pruebas
